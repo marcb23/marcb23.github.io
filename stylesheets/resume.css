@@ -1,0 +1,52 @@
+body {
+	background-image: url('../images/background.jpg');
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: Century;
+	font-size: 14px;
+}
+
+div {
+	padding: 10px;
+}
+
+h1 {
+	font-family: "Arial Black";
+	text-align: center;
+	font-size: 36px;
+}
+
+h2 {
+	font-family: Avenir;
+	font-size: 14px;
+	text-align: center;
+}
+
+h3.section_head {
+	font-family: "Copperplate";
+	line-height: 50%;
+	font-size: 28px;
+	display: block;
+	text-indent: 10px;
+}
+
+h4.subsection {
+	font-family: Avenir;
+	display: inline;
+	font-size: 16px;
+	line-height: 90%;
+
+}
+
+h4.subtitle {
+	text-indent: 50px;
+	font-family: Century;
+	font-style: italic;
+	display: inline;
+}
+
+p {
+	display: block;
+	margin-left: 40px;
+}
